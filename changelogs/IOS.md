@@ -1,5 +1,19 @@
 # PojavLauncher iOS
 
+## Please refer to [this guide](https://pojavlauncherteam.github.io/JIT.html) on how to enable JIT
+
+## 3.0 Nightly
+We are hard at work to refine the user experience and implement new features.
+- 1.16.5+ support
+- Java 21 supporrt
+- Profiles GUI rework
+- Fixed an issue with a crash relating to the background tasks
+- SwiftUI rewrite
+- and many, many more
+
+**This is a development build. Please expect bugs and stability issues.**
+Download the IPA [here](https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher-ios.ipa.zip)
+
 ## 2.2 "Deepslate"
 With this release of PojavLauncher, we refined features, fixed bugs, and implemented small additions to existing ones to buff user experience. While there are not many notable changes to discuss here, there are some we can show:
 - Implemented a controller configurator
